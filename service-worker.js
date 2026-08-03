@@ -1,4 +1,4 @@
-const CACHE_NAME='eisenhower-mobile-v5';
+const CACHE_NAME='eisenhower-mobile-v6';
 const APP_SHELL=['./','./index.html','./manifest.webmanifest','./favicon.svg','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',event=>{
